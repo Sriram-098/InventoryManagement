@@ -11,7 +11,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+.RENDER_FIX.md
 __pycache__/
 .env
 *.pyc
